@@ -70,6 +70,7 @@ void loop()
   digitalWrite(pin4,LOW);
   digitalWrite(pin5,LOW);
   delay(stime);
+  
   digitalWrite(pin2,HIGH);
   digitalWrite(pin3,LOW);
   digitalWrite(pin4,LOW);
