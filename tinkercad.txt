@@ -1,0 +1,6 @@
+Through Button  blink LED    == https://www.tinkercad.com/things/5VtEFKjD17o-shiny-duup-wolt/editel?sharecode=7Y-7fLCqP82BMMdTAVUbcooMFfCz6IYEgT7Y-D4uHRA
+Led  with digital counter    == https://www.tinkercad.com/things/kVXA4BT1fFT-daring-stantia-borwo/editel?sharecode=MNFKAypDjVeB7M7dmhPJSkLNMH8sfwJLgy77lOuVAgw
+RGB LED                      == https://www.tinkercad.com/things/leYT2BR4PLv-powerful-jaban/editel?sharecode=ILwxCxNFcdHdM3tSGjqqcmHmdXe10rnJF8JzdoY_9jw
+sensors and actuators        == https://www.tinkercad.com/things/ba3Ok418MEf-bodacious-uusam/editel?sharecode=SqzM-Db6bJOLlFr1hNJ5V7Sp0E6mAb2t-e0IkjbO3CE
+Reading Sensors (Multimeter) == https://www.tinkercad.com/things/e65jfeaQGsb-surprising-amur-amberis/editel?sharecode=-5bnXgOYpMHxv5eE5a_r-_mHuv_5UCV1RroDBqUqMUk
+sensor in regular intervals  == https://www.tinkercad.com/things/jJojNJHmNv6-smooth-stantia-blad/editel?sharecode=S6Bm2uXc0CCTkvSv8ghY_omguRq3Y57FF1wqDBB0ETM
